@@ -1,12 +1,15 @@
 # NextHearthquake
-Es un proyecto para la materia de inteligencia artificial de la Universidad Industrial de Santander
+It is a project for the artificial intelligence subject of the Universidad Industrial de Santander
 
-Este proyecto tiene como fin tratar de predecir un sismo, basados en los datos de sismos en el territorio colombiano, estos datos fueron sacados del Servicio Geologico Colombiano.
+This project aims to try to predict an earthquake, based on earthquake data in the Colombian territory, these data were taken from the Colombian Geological Service.
 
-Aún se encuentra en etapa de desarrollo.
+It is still in the development stage.
 
 
-Realizado por:
+Made by:
+
 Jhon Andres Parra
+
 Hordan Navarro
+
 Oscar Andres Gil
