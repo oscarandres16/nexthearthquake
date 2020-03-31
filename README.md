@@ -6,7 +6,7 @@ This project aims to try to predict an earthquake, based on earthquake data in t
 It is still in the development stage.
 
 
-Made by:
+# Made by:
 
 Jhon Andres Parra
 
